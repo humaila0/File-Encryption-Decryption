@@ -3,7 +3,6 @@ This is my Computer Organization & Assembly Language Course project
 
 [![Assembly](https://img.shields.io/badge/Assembly-x86-blue)](https://en.wikipedia.org/wiki/X86_assembly_language)
 [![Platform](https://img.shields.io/badge/Platform-DOS%20%7C%20MASM%20%7C%20TASM-orange)](#)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Completed-success)](#)
 
 ---
@@ -104,15 +103,3 @@ Hello, World!
 
 * MASM / TASM assembler
 * DOS environment (or **DOSBox** for modern systems)
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-✨ Now your README looks **professional** with badges, sections, and visuals.
-
-👉 Do you also want me to **generate a sample `LICENSE` file (MIT)** so your GitHub repo is complete?
